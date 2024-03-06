@@ -26,6 +26,18 @@ body {
   border-radius: 20%;
 }
 
+button{
+  margin-top: 50px;
+  height: 100px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 10%;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.5rem;
+  color: #011F3F;
+  background-color: bisque;
+}
+
 .game-over {
   background-color: red;
   opacity: 0.8;
