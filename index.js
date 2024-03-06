@@ -6,6 +6,7 @@ var playerPattern=[];
 
 document.addEventListener("keypress",game);
 $(".btn").click(player);
+$("button").click(game);
 
 
 
